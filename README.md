@@ -1,6 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&align=center&fontColor=6699FF&text=ALL-Q&height=150&fontSize=60&desc=올리브영%20제품%20찾기&descAlignY=75&descAlign=55)
-
-<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6699FF&text=ALL-Q&Al&height=150&fontSize=60&desc=올리브영%20제품%20찾기&descAlignY=75&descAlign=55" />
+![transparent](https://capsule-render.vercel.app/api?type=waving&align=center&fontColor=6699FF&text=ALL-Q&height=150&fontSize=60&desc=올리브영%20제품%20찾기&descAlignY=75&descAlign=55)
 
 <h3 align="center">👋Welcome to ALL Q👋</h3>
 <h4 align="center">Team Name: 공우꺼</h4>
