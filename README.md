@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ALL-Q&fontSize=90&animation=fadeIn&fontAlignY=38&desc=한눈에%20올리브영%20제품%20찾기&descAlignY=57&descAlign=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ALL-Q&fontSize=90&fontColor=6699FF&animation=fadeIn&fontAlignY=38&desc=한눈에%20올리브영%20제품%20찾기&descAlignY=57&descAlign=58)
 
 <h3 align="center">👋Welcome to ALL Q👋</h3>
 <h4 align="center">Team Name: 공우꺼</h4>
