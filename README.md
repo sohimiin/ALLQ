@@ -52,3 +52,11 @@ Link: [ALLQ][ALLQlink]
 
 - Utilization Plan
 > 올리브영에 한정되는 것이 아니라, 더 나아가 다이소나 백화점 같은 넓은 매장에서도 적용한다면 다른 기업과 매장에서도 고객에게 편의를 줄 수 있는 효과를 기대한다.
+
+------------------------------------------------
+ 
+ ## Open Source
+> css 카테고리 - https://codepen.io/jnowland/pen/GZLQBw
+> css 검색창 - https://codepen.io/avstorm/pen/JBGWBa
+> tomcat 서버 mysql 연동 - https://bug41.tistory.com/100
+
