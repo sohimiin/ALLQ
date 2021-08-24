@@ -56,7 +56,7 @@ Link: [ALLQ][ALLQlink]
 ------------------------------------------------
  
  ## Open Source
-> css 카테고리 - https://codepen.io/jnowland/pen/GZLQBw
-> css 검색창 - https://codepen.io/avstorm/pen/JBGWBa
+> css 카테고리 - https://codepen.io/jnowland/pen/GZLQBw <br>
+> css 검색창 - https://codepen.io/avstorm/pen/JBGWBa <br>
 > tomcat 서버 mysql 연동 - https://bug41.tistory.com/100
 
