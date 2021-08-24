@@ -6,6 +6,9 @@
 <h4 align="center">Project Name: 올큐</h4>
 
 <br><p align="center"><img width="20%" src="https://user-images.githubusercontent.com/71215507/130558718-a5add457-fd5a-49a0-9b0c-f4206712a801.png"></p>
+Link: [ALLQ][ALLQlink]
+
+[ALLQlink]: http://146.56.145.14:8080/ALLQ.html
 
 -------------------------------------------
 
