@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=300&section=header&text=ALL-Q&fontSize=90&fontColor=6699FF&animation=fadeIn&fontAlignY=38&desc=한눈에%20올리브영%20제품%20찾기&descAlignY=57&descAlign=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=300&section=header&img src="https://user-images.githubusercontent.com/71215507/130559099-6936c6d2-f030-467d-93cb-0d84242f5a76.png"&text=ALL-Q&fontSize=90&fontColor=6699FF&animation=fadeIn&fontAlignY=38&desc=한눈에%20올리브영%20제품%20찾기&descAlignY=57&descAlign=58)
 
 <p align="center"><img width="40%" src="https://user-images.githubusercontent.com/71215507/130559099-6936c6d2-f030-467d-93cb-0d84242f5a76.png"></p><br>
 <h3 align="center">👋Welcome to ALL Q👋</h3>
