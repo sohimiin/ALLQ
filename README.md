@@ -4,7 +4,7 @@
 <h4 align="center">Team Name: 공우꺼</h4>
 <h4 align="center">Project Name: 올큐</h4>
 
-<br><p align="center"><img width="20%" src="https://user-images.githubusercontent.com/71215507/128477071-491dfdc6-0592-4d62-ba55-09ef5eea68e3.png"></p>
+<br><p align="center"><img width="20%" src="https://user-images.githubusercontent.com/71215507/130558718-a5add457-fd5a-49a0-9b0c-f4206712a801.png"></p>
 
 -------------------------------------------
 
