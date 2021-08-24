@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=300&section=header&text=ALL-Q&fontSize=90&fontColor=6699FF&animation=fadeIn&fontAlignY=38&desc=한눈에%20올리브영%20제품%20찾기&descAlignY=57&descAlign=58)
 
-<p align="center"><img width="20%" src="https://user-images.githubusercontent.com/71215507/130559099-6936c6d2-f030-467d-93cb-0d84242f5a76.png"></p><br>
+<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/71215507/130559099-6936c6d2-f030-467d-93cb-0d84242f5a76.png"></p><br>
 <h3 align="center">👋Welcome to ALL Q👋</h3>
 <h4 align="center">Team Name: 공우꺼</h4>
 <h4 align="center">Project Name: 올큐</h4>
