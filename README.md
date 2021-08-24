@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=100&section=header&animation=fadeIn&descAlignY=57&descAlign=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6699FF&height=150&section=header&animation=fadeIn&descAlignY=57&descAlign=58)
 
 <p align="center"><img width="40%" src="https://user-images.githubusercontent.com/71215507/130559099-6936c6d2-f030-467d-93cb-0d84242f5a76.png"></p><br>
 <h3 align="center">👋Welcome to ALL Q👋</h3>
